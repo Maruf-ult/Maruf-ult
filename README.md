@@ -19,9 +19,9 @@ I'm a passionate and curious developer from Bangladesh, currently exploring exci
 
 Here are some of the projects I’ve worked on:
 
-- **[Project One](#)** – A brief one-liner about what it does.
-- **[Project Two](#)** – What problem it solves or tech you used.
-- **[Project Three](#)** – Add a cool project you're proud of!
+- **[https://github.com/Maruf-ult/Job_portal](#)** – A brief one-liner about what it does.
+- **[https://github.com/Maruf-ult/Appointment_Maker](#)** – What problem it solves or tech you used.
+- **[https://github.com/Maruf-ult/Expense_Tracker](#)** – Add a cool project you're proud of!
 
 _You can find more in my pinned repositories._
 
