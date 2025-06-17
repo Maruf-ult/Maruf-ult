@@ -11,17 +11,19 @@ I'm a passionate and curious developer from Bangladesh, currently exploring exci
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,django,react,nodejs,express,html,css,git,github,vscode,mongodb,postgresql,firebase,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,django,react,nodejs,express,html,tailwindcss,git,github,vscode,mongodb,postgresql,firebase,postman" />
   </a>
 </p>
+
 
 ## 📌 Projects
 
 Here are some of the projects I’ve worked on:
 
-- **[https://github.com/Maruf-ult/Job_portal](#)** – A brief one-liner about what it does.
-- **[https://github.com/Maruf-ult/Appointment_Maker](#)** – What problem it solves or tech you used.
-- **[https://github.com/Maruf-ult/Expense_Tracker](#)** – Add a cool project you're proud of!
+- **[Job Portal](https://github.com/Maruf-ult/Job_portal)** – A web-based job portal for posting and finding jobs.
+- **[Appointment Maker](https://github.com/Maruf-ult/Appointment_Maker)** – An web app for scheduling doc appointments.
+- **[Expense Tracker](https://github.com/Maruf-ult/Expense_Tracker)** – A simple web app to track expenses with charts and clean UI.
+- **[Bank Management System](https://github.com/Maruf-ult/Bank_management)** – A simple website for money transaction
 
 _You can find more in my pinned repositories._
 
@@ -33,7 +35,7 @@ _You can find more in my pinned repositories._
 
 ## 📈 GitHub Stats
 
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-ult&show_icons=true&theme=default)
 
 ---
 
