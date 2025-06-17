@@ -33,9 +33,9 @@ _You can find more in my pinned repositories._
 - 💬 Ask me about web development, efficient problem-solving, or what I’m learning!
 - 📫 Reach me at: marufhossain123098@gmail.com
 
-## 📈 My Most Used Languages
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-ult&layout=compact&theme=tokyonight&hide=html,css)
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-ult&show_icons=true&theme=default)
 
 ---
 
