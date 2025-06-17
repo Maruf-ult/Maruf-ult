@@ -36,13 +36,14 @@ _You can find more in my pinned repositories._
 
 ## 🧠 Competitive Programming Profiles
 
-[![Codeforces](https://cp-logo.vercel.app/codeforces/zx_zxuan)](https://codeforces.com/profile/your_username)
-[![CodeChef](https://cp-logo.vercel.app/codechef/def4ult)](https://www.codechef.com/users/your_username)
+ [![Codeforces](https://cp-logo.vercel.app/codeforces/zx_zxuan)](https://codeforces.com/profile/zx_zxuan)
+ 
+ [![CodeChef](https://cp-logo.vercel.app/codechef/def4ult)](https://www.codechef.com/users/def4ult)
 
 
 ## 📈 GitHub Stats
 
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-ult&show_icons=true&theme=default)
+ ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-ult&show_icons=true&theme=default)
 
 ---
 
