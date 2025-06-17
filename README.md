@@ -40,9 +40,6 @@ _You can find more in my pinned repositories._
  [![CodeChef](https://cp-logo.vercel.app/codechef/def4ult)](https://www.codechef.com/users/def4ult)
 
 
-## 📈 GitHub Stats
-
- ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-ult&show_icons=true&theme=default)
 
 ---
 
