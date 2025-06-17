@@ -11,7 +11,7 @@ I'm a passionate and curious developer from Bangladesh, currently exploring exci
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,django,react,nodejs,express,html,css,git,github,vscode,mongodb,sqllite,postgresql,firebase," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,django,react,nodejs,express,html,css,git,github,vscode,mongodb,postgresql,firebase,postman" />
   </a>
 </p>
 
