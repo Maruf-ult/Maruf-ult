@@ -37,7 +37,6 @@ _You can find more in my pinned repositories._
 ## 🧠 Competitive Programming Profiles
 
  [![Codeforces](https://cp-logo.vercel.app/codeforces/zx_zxuan)](https://codeforces.com/profile/zx_zxuan)
- 
  [![CodeChef](https://cp-logo.vercel.app/codechef/def4ult)](https://www.codechef.com/users/def4ult)
 
 
