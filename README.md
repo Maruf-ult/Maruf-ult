@@ -33,6 +33,11 @@ _You can find more in my pinned repositories._
 - 💬 Ask me about web development, efficient problem-solving, or what I’m learning!
 - 📫 Reach me at: marufhossain123098@gmail.com
 
+## 🧠 Competitive Programming Profiles
+
+[![Codeforces](https://cp-logo.vercel.app/codeforces/your_username)](https://codeforces.com/profile/your_username)
+[![CodeChef](https://cp-logo.vercel.app/codechef/your_username)](https://www.codechef.com/users/your_username)
+
 ## 📈 GitHub Stats
 
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-ult&show_icons=true&theme=default)
