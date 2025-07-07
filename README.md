@@ -23,7 +23,7 @@ Here are some of the projects I’ve worked on:
 - **[Job Portal](https://github.com/Maruf-ult/Job_portal)** – A web-based job portal for posting and finding jobs.
 - **[Appointment Maker](https://github.com/Maruf-ult/Appointment_Maker)** – An web app for scheduling doc appointments.
 - **[Expense Tracker](https://github.com/Maruf-ult/Expense_Tracker)** – A simple web app to track expenses with charts and clean UI.
-- **[Bank Management System](https://github.com/Maruf-ult/Bank_management)** – A simple website for money transaction
+- **[Bank Management](https://github.com/Maruf-ult/Bank_management)** – A simple website for money transaction
 
 _You can find more in my pinned repositories._
 
