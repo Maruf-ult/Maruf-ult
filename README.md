@@ -21,7 +21,7 @@ I'm a passionate and curious developer from Bangladesh, currently exploring exci
 Here are some of the projects I’ve worked on:
 
 - **[Job Portal](https://github.com/Maruf-ult/Job_portal)** – A web-based job portal for posting and finding jobs.
-- **[Appointment Maker](https://github.com/Maruf-ult/Appointment_Maker)** – An web app for scheduling doc appointments.
+- **[Task Manager](https://github.com/Maruf-ult/Task_Manager)** – A web app for managing and tracking team tasks.
 - **[Expense Tracker](https://github.com/Maruf-ult/Expense_Tracker)** – A simple web app to track expenses with charts and clean UI.
 - **[Bank Management](https://github.com/Maruf-ult/Bank_management)** – A simple website for money transaction
 
