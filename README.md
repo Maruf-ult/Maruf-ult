@@ -38,7 +38,8 @@ _You can find more in my pinned repositories._
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-zx__zxuan-808080?logo=codeforces)](https://codeforces.com/profile/zx_zxuan)
 [![CodeChef Profile](https://img.shields.io/badge/CodeChef-def4ult-00c853?logo=codechef)](https://www.codechef.com/users/def4ult)
-[![AtCoder Profile](https://img.shields.io/badge/AtCoder-zx__zxuan-b0b0b0?logo=atcoder)](https://atcoder.jp/users/zx_zxuan)
+[![AtCoder Profile](https://img.shields.io/badge/AtCoder-zx__zxuan-582f0e?logo=atcoder)](https://atcoder.jp/users/zx_zxuan)
+
 
 
 
