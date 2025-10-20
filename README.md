@@ -5,13 +5,13 @@ I'm a passionate and curious developer from Bangladesh, currently exploring exci
 ## 🚀 Skills & Tools
 
 - 💻 Languages: JavaScript | C | C++
-- 🌐 Web: React | Node.js | Express | HTML5/CSS3
+- 🌐 Web: React | Nextjs | Typescript | Expressjs
 - 📦 Tools & Tech: Git | GitHub | VSCode | MongoDB | Firebase
 - ⚙️ Currently Learning: Python | Django
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,django,react,nodejs,express,html,tailwindcss,git,github,vscode,mongodb,postgresql,firebase,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,nextjs,django,react,express,tailwindcss,git,github,vscode,mongodb,postgresql,firebase,postman" />
   </a>
 </p>
 
@@ -19,11 +19,11 @@ I'm a passionate and curious developer from Bangladesh, currently exploring exci
 ## 📌 Projects
 
 Here are some of the projects I’ve worked on:
-
-- **[Job Portal](https://github.com/Maruf-ult/Job_portal)** – A web-based job portal for posting and finding jobs.
-- **[Task Manager](https://github.com/Maruf-ult/Task_Manager)** – A web app for managing and tracking team tasks.
-- **[Expense Tracker](https://github.com/Maruf-ult/Expense_Tracker)** – A simple web app to track expenses with charts and clean UI.
-- **[Bank Management](https://github.com/Maruf-ult/Bank_management)** – A simple website for money transaction
+- **[Shopezy](https://github.com/Maruf-ult/Shopezy)** – Full-featured e-commerce platform
+- **[Task Manager](https://github.com/Maruf-ult/Task_Manager)** – Team collaboration and task tracking tool
+- **[JobHunt](https://github.com/Maruf-ult/JobHunt)** – Job listing and recruitment system
+- **[Expense Tracker](https://github.com/Maruf-ult/Expense_Tracker)** – Personal budgeting app with charts
+  
 
 _You can find more in my pinned repositories._
 
@@ -36,9 +36,10 @@ _You can find more in my pinned repositories._
 
 ## 🧠 Competitive Programming Profiles
 
- [![Codeforces](https://cp-logo.vercel.app/codeforces/zx_zxuan)](https://codeforces.com/profile/zx_zxuan)
- [![CodeChef](https://cp-logo.vercel.app/codechef/def4ult)](https://www.codechef.com/users/def4ult)
- [![AtCoder](https://cp-logo.vercel.app/atcoder/zx_zxuan)](https://atcoder.jp/users/zx_zxuan)
+[![Codeforces](https://cp-logo-api.codeforces.fun/codeforces/zx_zxuan)](https://codeforces.com/profile/zx_zxuan)
+[![CodeChef](https://cp-logo-api.codeforces.fun/codechef/def4ult)](https://www.codechef.com/users/def4ult)
+[![AtCoder](https://cp-logo-api.codeforces.fun/atcoder/zx_zxuan)](https://atcoder.jp/users/zx_zxuan)
+
 
 
 
